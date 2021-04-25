@@ -12,3 +12,7 @@ The Gallery of css-doodle
 - 界面结构
   - 分类：渐变、动画、动效
   - 功能：下载图片、生成base64地址（hover后的效果）
+
+## TODO
+- [ ] 首页开发：按钮：usage - 到首页；github；gallery
+- [ ] footer 页脚开发
