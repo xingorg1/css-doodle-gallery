@@ -1,6 +1,7 @@
 # css-doodle-gallery
 The Gallery of css-doodle 
 
+官方维护的gallery地址：https://codepen.io/collection/XyVkpQ/?cursor=ZD0xJm89MSZwPTEmdj03
 ## 技术栈
 - css-doodle
 - vite + vue3
